@@ -1,0 +1,7 @@
+As a Data Analyst/Data Engineer, my task was to locate the source of the data, create a pipeline for analysis.
+The file was located in Kaggle and copied the data using SQL to PostgreSQL cleaned and moved the data from local database to Snowflake, performed data transformation with DBT (data build tool), and used Power BI to create a report and dashboard.
+
+arn:aws:s3:::databucketsnowflake
+s3://databucketsnowflake/capstone_clean_data.csv
+arn:aws:s3:::databucketsnowflake
+https://databucketsnowflake.s3.eu-central-1.amazonaws.com/capstone_clean_data.csv
